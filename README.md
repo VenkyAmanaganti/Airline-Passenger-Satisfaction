@@ -34,3 +34,22 @@ Business travelers show higher satisfaction levels than personal travelers.
 Female passengers report slightly higher satisfaction rates than male passengers.
 Loyal customers contribute significantly to overall passenger satisfaction.
 Average seat comfort ratings strongly correlate with satisfaction scores.
+
+## 2. Delay Analysis Dashboard
+
+Examines the relationship between flight delays and customer satisfaction.
+
+Key Insights:
+
+Average arrival delay is approximately 15 minutes, while overall satisfaction remains around 55%.
+Dissatisfied passengers experience significantly higher arrival and departure delays compared to satisfied passengers.
+Economy and Eco Plus passengers face slightly higher departure delays than Business Class passengers.
+Delay patterns are relatively consistent across genders.
+Business travel accounts for the majority of passenger volume.
+Tools & Technologies
+Power BI
+Power Query
+DAX
+Data Modeling
+Data Visualization
+Interactive Slicers & Filters
