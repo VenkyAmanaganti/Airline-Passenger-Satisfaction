@@ -55,3 +55,18 @@ Business travel accounts for the majority of passenger volume.
 . Data Modeling
 . Data Visualization
 . Interactive Slicers & Filters
+
+## Business Impact
+
+This dashboard helps airline management identify factors affecting customer satisfaction, evaluate the impact of delays on passenger experience, understand customer segments, and support data-driven decisions to improve service quality and customer retention.
+
+Skills Demonstrated
+Data Cleaning & Transformation
+Data Modeling
+DAX Measures & KPIs
+Dashboard Design
+Customer Experience Analytics
+Business Insight Generation
+Data Storytelling
+
+Outcome: Developed a comprehensive airline analytics solution that transforms passenger and delay data into meaningful insights for improving customer satisfaction and operational performance.
