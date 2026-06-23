@@ -46,10 +46,12 @@ Dissatisfied passengers experience significantly higher arrival and departure de
 Economy and Eco Plus passengers face slightly higher departure delays than Business Class passengers.
 Delay patterns are relatively consistent across genders.
 Business travel accounts for the majority of passenger volume.
-Tools & Technologies
-Power BI
-Power Query
-DAX
-Data Modeling
-Data Visualization
-Interactive Slicers & Filters
+
+##Tools & Technologies
+
+. Power BI
+. Power Query
+. DAX                                                                                                                                                             
+. Data Modeling
+. Data Visualization
+. Interactive Slicers & Filters
