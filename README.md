@@ -6,3 +6,12 @@
 This Power BI project analyzes airline passenger satisfaction, customer behavior, and the impact of flight delays on overall travel experience. The dashboard provides actionable insights into passenger satisfaction across different travel classes, customer types, genders, and travel purposes while highlighting how arrival and departure delays influence customer perceptions.
 
 The project consists of two interactive dashboard pages:
+
+## Tools & Technologies
+
+. Power BI
+. Power Query
+. DAX
+. Data Modeling
+. Data Visualization
+. Interactive Slicers & Filters
