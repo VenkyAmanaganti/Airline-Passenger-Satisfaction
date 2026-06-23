@@ -15,3 +15,22 @@ The project consists of two interactive dashboard pages:
 . Data Modeling
 . Data Visualization
 . Interactive Slicers & Filters
+
+## 1. Airlines Performance Dashboard
+
+Focuses on customer satisfaction trends and passenger demographics.
+
+Key Metrics:
+
+Total Passengers: 130K
+Satisfied Passengers: 71K
+Loyal Customers: 106K
+Overall Satisfaction Rate: 54.73%
+
+## Key Insights:
+
+Business Class passengers have the highest satisfaction rate compared to Eco and Eco Plus classes.
+Business travelers show higher satisfaction levels than personal travelers.
+Female passengers report slightly higher satisfaction rates than male passengers.
+Loyal customers contribute significantly to overall passenger satisfaction.
+Average seat comfort ratings strongly correlate with satisfaction scores.
